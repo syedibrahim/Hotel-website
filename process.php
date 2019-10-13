@@ -16,6 +16,8 @@ mysqli_query($connect,"INSERT INTO employees1 (first_name,last_name,room,duratio
 		        VALUES ('$first_name','$last_name','$room','$duration','$email')");
 				
 	if(mysqli_affected_rows($connect) > 0){
+		echo"<h1> Thank You!!!</h1>";
+		echo "$last_name";
 	echo "<p>Your room is booked</p>";
         echo"<br><br>You are being redirected to home page.....";
 	echo '<a href="index.html">Click here</a>';
