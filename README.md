@@ -1,6 +1,6 @@
 # Hotel-website
-Website for hotel built on HTML, CSS and JavaScript
-
+Website for hotel built on HTML, CSS and JavaScript <br>
+Checkout Demo [Here](https://hotel-demo-proj.netlify.app/)
 
 ### ABSTRACT
 
@@ -69,3 +69,4 @@ ResponsiveSlides.js is a tiny jQuery plugin that automatically creates responsiv
 2. This project as opposed to real world websites which uses php and angular-js etc., is building entirely on html, CSS and    JavaScript, this has been done bring forth the importance of html.
 3. The outcome of the project helps the costumer to choose the rooms wisely and get varied information on services and location which will eventually be an important factor for the visitor to go ahead with the hotel booking.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/66b218c9-abb5-4fa2-8b8d-7443df376427/deploy-status)](https://app.netlify.com/sites/hotel-demo-proj/deploys)
